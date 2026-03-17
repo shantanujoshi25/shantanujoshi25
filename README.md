@@ -16,29 +16,76 @@
   <img src="https://komarev.com/ghpvc/?username=shantanujoshi25&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shantanujoshi25&theme=darkhub&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" /></a>
-</p>
-
 ---
 
 ## Tech Stack
 
-**Languages:** Python, Java, TypeScript, JavaScript, SQL
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion, Material UI
-**Backend:** FastAPI, Spring Boot, Node.js, GraphQL (Strawberry)
-**Data & ML:** Apache Kafka, Airflow, PyTorch, YOLOv11, Pandas, CrewAI
-**Cloud & DevOps:** AWS (S3, EC2), Docker, Vercel, Git, CI/CD
-**Databases:** PostgreSQL, Redis, MongoDB
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Projects
 
 ### [RecruiTech](https://github.com/shantanujoshi25/RecruiTech) — AI-Powered Technical Recruitment Platform
-> **Python · FastAPI · React · Apache Kafka · CrewAI · GraphQL · PostgreSQL**
+> **React · Node.js · Express · Apollo GraphQL · MongoDB · Apache Kafka · Airflow · CrewAI · AWS**
 
-Built the end-to-end AI/ML pipeline for an agentic recruitment platform that automates candidate evaluation. Engineered a Kafka-based event streaming architecture, CrewAI multi-agent system for resume and GitHub analysis, GraphQL APIs with Strawberry/FastAPI, and a dark-themed React frontend with role-based access control.
+Built a full-stack agentic recruitment platform that automates candidate evaluation using AI. Engineered a Kafka-to-Airflow data pipeline that triggers CrewAI agents for GitHub analysis, LeetCode profiling, and OpenAI-powered ATS resume scoring. Backend runs on Express with Apollo Server GraphQL, JWT + Google OAuth authentication, and role-based access control (Candidate, Recruiter, Admin). Frontend built with React 18, Vite, and Apollo Client.
 
 ### [RGB-Thermal Fusion YOLOv11](https://github.com/shantanujoshi25/rgb-thermal-fusion-yolov11) — Computer Vision Research
 > **Python · PyTorch · YOLOv11 · GANs**
