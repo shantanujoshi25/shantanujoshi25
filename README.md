@@ -20,6 +20,7 @@
 
 ## Tech Stack
 
+<div align="center">
 <table>
   <tr>
     <td><b>Languages</b></td>
@@ -30,8 +31,6 @@
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -49,8 +48,6 @@
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td><b>Data & ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
@@ -67,8 +64,6 @@
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
@@ -77,6 +72,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
