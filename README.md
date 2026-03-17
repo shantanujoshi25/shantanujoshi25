@@ -22,6 +22,17 @@
 
 ---
 
+## Tech Stack
+
+**Languages:** Python, Java, TypeScript, JavaScript, SQL
+**Frontend:** React, Next.js, Tailwind CSS, Framer Motion, Material UI
+**Backend:** FastAPI, Spring Boot, Node.js, GraphQL (Strawberry)
+**Data & ML:** Apache Kafka, Airflow, PyTorch, YOLOv11, Pandas, CrewAI
+**Cloud & DevOps:** AWS (S3, EC2), Docker, Vercel, Git, CI/CD
+**Databases:** PostgreSQL, Redis, MongoDB
+
+---
+
 ## Featured Projects
 
 ### [RecruiTech](https://github.com/shantanujoshi25/RecruiTech) — AI-Powered Technical Recruitment Platform
@@ -61,22 +72,9 @@ AI-powered travel planning app that generates personalized itineraries using LLM
 
 ---
 
-## Tech Stack
-
-**Languages:** Python, Java, TypeScript, JavaScript, SQL
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion, Material UI
-**Backend:** FastAPI, Spring Boot, Node.js, GraphQL (Strawberry)
-**Data & ML:** Apache Kafka, Airflow, PyTorch, YOLOv11, Pandas, CrewAI
-**Cloud & DevOps:** AWS (S3, EC2), Docker, Vercel, Git, CI/CD
-**Databases:** PostgreSQL, Redis, MongoDB
-
----
-
 ## GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shantanujoshi25&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantanujoshi25&theme=github-dark-blue&hide_border=true)
 
