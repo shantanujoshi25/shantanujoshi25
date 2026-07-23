@@ -125,7 +125,7 @@ A real-time multiplayer Bingo mini app built during the Alien.org Hackathon (ESI
 ### [WebScout](https://github.com/shantanujoshi25/webscout) — Web Security Scanner
 > **Python · Security · NSD Certified**
 
-An automated web vulnerability scanning tool. Earned an NSD Certification in Penetration Testing from ISAC for this work.
+An automated web vulnerability scanning Chrome plugin.
 
 ---
 
